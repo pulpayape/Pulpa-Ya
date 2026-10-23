@@ -1541,7 +1541,7 @@
 // ====================================================================
 
 // 1) PEGA AQUÍ la URL de tu implementación de Apps Script (la que termina en /exec)
-const API_URL  = 'PEGA_AQUI_LA_URL_DE_TU_IMPLEMENTACION_QUE_TERMINA_EN_/exec';
+const API_URL  = 'https://script.google.com/macros/s/AKfycbxsrOdnNlQPI0Sg6ITx_IEWS_o9CXM4wNToqQ-jq7LSLuVgmcG7pKMIvGePAxh9r6T8hw/exec';
 const SITE_URL = 'https://www.pulpaya.com';
 
 let _lastPublicJson = '';
